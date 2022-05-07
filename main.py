@@ -1,5 +1,5 @@
 
-from logging import error;
+from logging import error
 from typing import Text
 import telebot
 import re
