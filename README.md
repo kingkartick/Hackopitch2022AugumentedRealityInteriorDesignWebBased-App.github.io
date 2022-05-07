@@ -22,14 +22,7 @@ Technologies we used ->
 4 Realtime database = To achive Realtime Database capablity we used Firebase realtime data base javaScript;
 
 5 Telegram Bot = for Customer suport we needed a bot we programmed this telegram bot into our website from python;
-$$$$$$$$$$$$$$$$$_$$$$$$$$$$$$$$$$_$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$__$$$$$$$$$$$$$$_$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$_______________$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$___________________$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$____$$$_________$$$____$$$$$$$$$$$$$
-$$$$$$$$$$$$$_____$$$_________$$$_____$$$$$$$$$$$$
-$$$$$$$$$$$$___________________________$$$$$$$$$$$
-$$$$$$$$$$$$___________________________$$$$$$$$$$$
+
 
 
 
